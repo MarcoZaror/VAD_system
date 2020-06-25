@@ -1,15 +1,8 @@
 # VAD_system
 
-README file for task 4 (VAD) - Speech Technology
+README file for the development of a VAD (Voice action detection) system
 
-The solution consists of 5 files:
-
-Assumptions for data:
-It is expected that the audio files for training, validation and testing are in a folder called audio.
-It is expected that the labels for training, validation and testing are in a folder called labels.
-It is expected that the only files in the folders audio and labels, are the files wanted to use in the code.
-It is expected that the names of the files are the same as the ones provided in the task description.
-
+The development consists of 5 files:
 
 ### File: train.py
  - Objective: Train a feed-forward neural network or a recurrent neural network
@@ -46,3 +39,9 @@ It is expected that the names of the files are the same as the ones provided in 
 
 ### File: train_eval_func.py
  - Objective: Provide functions to evaluate a particular trained model
+
+#### Assumptions for data:
+ - It is expected that the audio files for training, validation and testing are in a folder called audio.
+ - It is expected that the labels for training, validation and testing are in a folder called labels.
+ - It is expected that the only files in the folders audio and labels, are the files wanted to use in the code.
+ - It is expected that the names of the files are the same as the ones provided in the task description.
