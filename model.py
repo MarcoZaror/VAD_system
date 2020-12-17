@@ -2,7 +2,7 @@
 """
 Created on Tue May  5 18:21:23 2020
 
-@author: Marco
+@author: Marco Zaror
 """
 
 import torch.nn as nn
