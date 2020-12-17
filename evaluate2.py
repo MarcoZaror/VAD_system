@@ -2,7 +2,7 @@
 """
 Created on Tue May 12 08:27:27 2020
 
-@author: Marco
+@author: Marco Zaror
 File created to evaluate a feed-forward neural network or a recurrent neural 
 network. Receive as input a irectory containing the audio files, 
 another containing the labels and a flag indicating to evaluate the FFNN
